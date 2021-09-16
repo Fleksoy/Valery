@@ -30,3 +30,5 @@ for i in range(len(A)):
         A[i][j]=int(A[i][j])
         print(A[i][j],end=' ')
     print()
+
+#проверка отслеживания
